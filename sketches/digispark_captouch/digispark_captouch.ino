@@ -6,7 +6,7 @@
 #define PIN_SENSE_READ 0    // Read for capacitive sensor
 #define PIN_SENSE_DRIVE 2   // Drive V for capacitive sensor
 
-#define N_PIXELS 4          // no more than 31
+#define N_PIXELS 6          // no more than 31
 
 // threshold to detect a capacitive touch (0-999)
 #define CAP_THRESHOLD 50 
